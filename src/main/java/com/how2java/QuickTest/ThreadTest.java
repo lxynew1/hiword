@@ -28,7 +28,7 @@ public class ThreadTest {
                     //可能是做排序
 					try {
 						int str2=Finder.getChar(all.get(j).toString(),finder,0);
-						//System.out.println(count);
+						System.out.println(count);
 					} catch (IOException e) {
 						// TODO Auto-generated catch block
 						e.printStackTrace();
